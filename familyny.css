@@ -112,7 +112,7 @@ header ul li a:hover{
     bottom: 0vh;
     left: 0;
     text-align: center;
-    background-color: #643c94;
+    background-color: rgba(129, 138, 109);
     padding: 8px;
     color: #000000;
 }
