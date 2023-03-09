@@ -56,6 +56,15 @@ header ul li a{
     padding: 0.8rem 1.2rem;
 }
 
+
+header ul li a:hover,
+header ul li a.active
+
+header ul li a:hover{
+    background: rgba(238, 221, 146, 0.849);
+
+    
+}
 h2{
     font-size: 3.5em;
     margin-bottom: 10px;
