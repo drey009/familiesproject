@@ -140,8 +140,8 @@ footer {
     bottom: 0vh;
     left: 0;
     text-align: center;
-    background-color: u;
+    
     padding: 8px;
     color: #000000;
-    background-color: rgba(129, 138, 109, 0.849);
+    background-color: rgba(129, 138, 109);
 }
