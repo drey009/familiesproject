@@ -76,6 +76,9 @@ header ul li a:hover{
     margin-top: 15px;
     text-align: center;
   }
+  h2{
+    text-align: center;
+  }
 .containercard{
     margin: 40px auto;
     max-width: 1200px;
