@@ -122,7 +122,6 @@ span{
     background-size: cover;
     transition: transform 0.5;
 }
-/*
 .card1{
     background-image: url("img/andrey.jpg");
 
@@ -135,7 +134,7 @@ span{
 }
 .card4{
     background-image: url("https://cdn.pixabay.com/photo/2023/02/09/06/16/clouds-7778012_960_720.jpg");
-} */
+}
 .card:hover{
     transform: translateY(-10px);
 }
